@@ -1,10 +1,17 @@
-# Template para React/Typescript com Prettier e Eslint configurados
+# Recriação da interface do twitter
 
-Projeto create react-app com template typescript e configurado com eslint e prettier
+Recriação da interface de feed do tweeter sem consumo de apis.
 
-## Ressalvas
+## Instalação
 
-- Arquivo .prettierrc possue as regras do prettier, porém aparentemente não são capturadas (problema de regra singleQuote)
-- As regras do prettier foram copiadas para o arquivo .eslintrc, dentro de {"rules": [ "prettier/prettier" ]}
-- Pasta .vscode tem configurações de formatação ao salvar específicas para o projeto, que podem ser colocar nas
-  configuração default da IDE vscode no arquivo settings.json
+Use o npm ou o yarn para instalar:
+
+```bash
+npm install
+## ou
+yarn install
+```
+
+## Screenshot da interface
+
+![](https://github.com/maletta/ui-twitter-interface-clone/blob/master/src/assets/twitter_demonstration.png)

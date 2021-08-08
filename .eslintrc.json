@@ -19,10 +19,7 @@
   },
   "plugins": ["react", "@typescript-eslint", "react-hooks", "prettier"],
   "rules": {
-    "prettier/prettier": [
-      "error",
-      { "singleQuote": true, "trailingComma": "es5" }
-    ],
+    "prettier/prettier": ["error", {"singleQuote" : true}],
     "no-use-before-define": "off",
     "@typescript-eslint/no-use-before-define": ["error"],
     "react/jsx-filename-extension": [
