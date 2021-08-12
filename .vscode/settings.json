@@ -1,4 +1,10 @@
 {
+  "colorize.languages": ["typescript", "javascript", "css", "scss", 
+    "javascriptreact", "typescriptreact"],
+  "colorize.exclude": ["node_modules","/node_modules/*/**"],
+  "colorize.colorized_variables": [
+    "CSS","LESS", "SASS", "STYLUS"
+  ],
   "editor.defaultFormatter": "dbaeumer.vscode-eslint",
   "editor.formatOnSave": true,
   "eslint.alwaysShowStatus": true,
