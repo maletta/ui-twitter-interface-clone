@@ -19,6 +19,7 @@
   },
   "plugins": ["react", "@typescript-eslint", "react-hooks", "prettier"],
   "rules": {
+    "react/jsx-props-no-spreading": "off", 
     "prettier/prettier": ["error", {"singleQuote" : true}],
     "no-use-before-define": "off",
     "@typescript-eslint/no-use-before-define": ["error"],
@@ -33,7 +34,8 @@
       "ignorePackages",
       {
         "ts": "never",
-        "tsx": "never"
+        "tsx": "never",
+        "js": "never"
       }
     ],
     "no-shadow": "off",

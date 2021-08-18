@@ -1,3 +1,5 @@
+export { RocketseatIcon as Rocketseat } from '../components/RocketseatIcon';
+
 export {
   Home,
   Notifications,

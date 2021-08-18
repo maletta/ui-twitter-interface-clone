@@ -13,6 +13,6 @@ const App: React.FC = () => {
   );
 };
 
-// vídeo em 1:06:57
-// https://youtu.be/K-8z_4xvT3o?t=4018
+// vídeo em 2:02:00
+// https://youtu.be/K-8z_4xvT3o?t=7320
 export default App;
