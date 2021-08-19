@@ -27,7 +27,7 @@ const ProfilePage: React.FC = () => {
         <h2>@muleke_kawaii</h2>
 
         <p>
-          Can be find on{' '}
+          Can be found on
           <a href="https://github.com/maletta" target="_blank" rel="noreferrer">
             Github Maletta 💼
           </a>
