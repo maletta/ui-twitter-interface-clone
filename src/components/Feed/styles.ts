@@ -27,6 +27,11 @@ export const Tweets = styled.div`
   display: flex;
   flex-direction: column;
 
+  &:last-child {
+    /** tamanho dos ícones + padding */
+    padding-bottom: 39px;
+  }
+
   /* tirar pra ver como fica encolhendo */
   flex-shrink: 0;
 `;
