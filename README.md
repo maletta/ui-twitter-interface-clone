@@ -14,10 +14,13 @@ yarn install
 
 ## Screenshot da interface
 
-![]([https://github.com/maletta/ui-twitter-interface-clone/blob/master/src/assets/twitter_demonstration.png](https://github.com/maletta/ui-twitter-interface-clone/blob/main/public/images/mobile_screenshot.PNG))
+### Mobile
+![](https://github.com/maletta/ui-twitter-interface-clone/blob/main/public/images/mobile_screenshot.png)
 
-![]([https://github.com/maletta/ui-twitter-interface-clone/blob/master/src/assets/twitter_demonstration.png](https://github.com/maletta/ui-twitter-interface-clone/blob/main/public/images/tablet_screenshot.PNG))
+### Tablet
+![](https://github.com/maletta/ui-twitter-interface-clone/blob/main/public/images/tablet_screenshot.PNG)
 
-![]([https://github.com/maletta/ui-twitter-interface-clone/blob/master/src/assets/twitter_demonstration.png](https://github.com/maletta/ui-twitter-interface-clone/blob/main/public/images/desktop_screenshot.PNG))
+### Desktop
+![](https://github.com/maletta/ui-twitter-interface-clone/blob/main/public/images/desktop_screenshot.png)
 
-![]([https://github.com/maletta/ui-twitter-interface-clone/blob/master/src/assets/twitter_demonstration.png](https://github.com/maletta/ui-twitter-interface-clone/blob/main/public/images/desktop2_screenshot.PNG))
+![](https://github.com/maletta/ui-twitter-interface-clone/blob/main/public/images/desktop2_screenshot.png)
