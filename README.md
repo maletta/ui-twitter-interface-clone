@@ -1,6 +1,6 @@
 # Recriação da interface do twitter
 
-Recriação da interface de feed do tweeter sem consumo de apis.
+Recriação da interface de feed do twitter sem consumo de apis.
 
 ## Instalação
 
