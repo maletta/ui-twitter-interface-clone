@@ -18,7 +18,7 @@ yarn install
 ![](https://github.com/maletta/ui-twitter-interface-clone/blob/main/public/images/mobile_screenshot.png)
 
 ### Tablet
-![](https://github.com/maletta/ui-twitter-interface-clone/blob/main/public/images/tablet_screenshot.PNG)
+![](https://github.com/maletta/ui-twitter-interface-clone/blob/main/public/images/tablet_screenshot.png)
 
 ### Desktop
 ![](https://github.com/maletta/ui-twitter-interface-clone/blob/main/public/images/desktop_screenshot.png)
